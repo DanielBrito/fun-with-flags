@@ -1,14 +1,14 @@
 # Fun with Flags using HTML and CSS
 
-<div style="text-align: center">
+<p style="text-align: center">
 	<img src="resources/sheldon_header.png" alt="Sheldon cooper fun with flags">
-</div>
+</p>
 
 <br/>
 
-:nerd_face: : Welcome to the repository of Daniel Brito Presents Fun with Flags using HTML and CSS. Over the next weeks, you and I are going to explore the dynamic world of vexillology, through studying and designing flags of the world using just HTML and CSS.
+:nerd_face: : Welcome to the repository of **Daniel Brito Presents Fun with Flags using HTML and CSS**. Over the next weeks, you and I are going to explore the dynamic world of *vexillology*, through studying and designing flags of the world using just *HTML and CSS*.
 
-:thinking: : Hang on. What’s vexillology?
+:thinking: : Hang on, Daniel. What’s vexillology?
 
 :nerd_face: : Vexillology is the study of flags.
 
