@@ -20,16 +20,11 @@ body {
   box-sizing: border-box;
 }
 
-/* Original flag */
+/* Original flag: */
 main {
   width: 900px;
   height: 600px;
-  background: linear-gradient(
-      -180deg,
-      rgba(255, 255, 255, 0.1),
-      rgba(255, 255, 255, 0.1)
-    ),
-    url("./japan-flag.png");
+  background-image: url("./japan-flag.png");
   background-position: center;
   background-size: contain;
 }
@@ -45,8 +40,9 @@ main {
   align-items: center;
 }
 
+/* To compare with original flag: */
 #flag:hover {
-  opacity: 0.1;
+  opacity: 0;
 }
 
 #circle {
