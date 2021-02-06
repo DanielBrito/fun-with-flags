@@ -14,8 +14,8 @@
 
 :grinning: : Cool. I think I just learned something.
 
-:nerd_face: Did you have fun doing it?
+:nerd_face: : Did you have fun doing it?
 
 :star_struck: : I’ll say.
 
-:nerd_face: So, check out my collection at [CodePen](https://codepen.io/collection/DmYQoQ).
+:nerd_face: : So, check out my collection at [CodePen](https://codepen.io/collection/DmYQoQ).
