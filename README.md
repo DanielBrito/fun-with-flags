@@ -18,4 +18,4 @@
 
 :star_struck: : I’ll say.
 
-:nerd_face: : So, check out my collection at [CodePen](https://codepen.io/collection/DmYQoQ).
+:nerd_face: : So, check out my collection on [CodePen](https://codepen.io/collection/DmYQoQ).
