@@ -1,7 +1,7 @@
 # :pirate_flag: Fun with flags using HTML and CSS
 
 <p style="text-align: center">
-	<img src="https://i.imgur.com/YOuz0h4.png" alt="Sheldon cooper fun with flags">
+	<img src="https://i.imgur.com/tBGHwRe.jpg" alt="Daniel Brito fun with flags">
 </p>
 
 <br/>
