@@ -1,0 +1,57 @@
+/* Flag color palette: */
+:root {
+  --red: #c70025;
+  --white: #fff;
+}
+
+/* Layout configuration: */
+body {
+  margin: 0;
+  padding: 0;
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #000;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+/* Original flag */
+main {
+  width: 900px;
+  height: 600px;
+  background: linear-gradient(
+      -180deg,
+      rgba(255, 255, 255, 0.1),
+      rgba(255, 255, 255, 0.1)
+    ),
+    url("./japan-flag.png");
+  background-position: center;
+  background-size: contain;
+}
+
+/* Creating flag: */
+#flag {
+  background-color: #fff;
+  width: 100%;
+  height: 100%;
+  transition: all 0.2s ease-in-out;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#flag:hover {
+  opacity: 0.1;
+}
+
+#circle {
+  height: 360px;
+  width: 360px;
+  background-color: var(--red);
+  border-radius: 50%;
+}
